@@ -1,6 +1,6 @@
 ## Introduction
 An analog clock that reminds you that you getting older.
-And that every passing second draws closer to the inevitable.
+And that every passing second draws you closer to the inevitable.
 
 ## Tools
 * HTML
