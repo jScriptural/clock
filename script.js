@@ -51,7 +51,7 @@ function digitalDisplay(){
 				hr.innerHTML =`<h1>${hour}</h1>`;
 			}
 		}
-		min.innerHTML = `<h1>:${minutes}:</h1>`
+		min.innerHTML = `<h1><span>:</span>${minutes}<span>:</span></h1>`
 		sec.innerHTML = `<h1>${seconds}</h1>`
 	}
 setInterval(()=>helper())

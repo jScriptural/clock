@@ -57,9 +57,10 @@ body {
 }
 .clock::before {
 	content: "";
-	background: #000;
-	width: 10px;
-	height: 10px;
+	background: #fff;
+	border: 1px solid orange;
+	width: 7px;
+	height: 7px;
 	border-radius: 50%;
 	z-index: 100;
 }
@@ -95,7 +96,7 @@ body {
 	position: absolute;
 	width: 8px;
 	height:80px;
-	background: #1229af;
+	background: red;
 	border-radius: 8px 8px 0 0;
 	z-index: 10;
 }
@@ -104,7 +105,7 @@ body {
 	position: absolute;
 	width: 5px;
 	height:110px;
-	background:purple;
+	background: green;
 	border-radius: 8px 8px 0 0;
 	z-index: 11;
 }
@@ -114,7 +115,7 @@ body {
 	position: absolute;
 	width: 2px;
 	height: 140px;
-	background: #000;
+	background: orange;
 	border-radius: 8px 8px 0 0;
 	z-index: 15;
 }
@@ -144,9 +145,20 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	color: #fff;
-}
 
+}
+.hr {
+	color: red;
+}
+.min {
+	color: green;
+}
+.min span {
+	color: #c1c1c1;
+}
+.sec {
+	color: orange;
+}
 .format {
 	width: fit-content;
 	border:1px solid orange;
