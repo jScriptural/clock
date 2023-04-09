@@ -1,5 +1,6 @@
 ## Introduction
-An analog clock tells reminds you that you getting older.
+An analog clock that reminds you that you getting older.
+And that every passing second draws closer to the inevitable.
 
 ## Tools
 * HTML
@@ -7,8 +8,8 @@ An analog clock tells reminds you that you getting older.
 * Javascript
 
 ___
-[LiVE PAGE](https://clock-orcin.vercel.app/)
+[LIVE PAGE](https://clock-orcin.vercel.app/)
 ___
 
-# YOU'LL DO ME SOME GOOD IF YOU STAR THIS REPO.
-# THANK YOU
+### YOU'LL DO ME SOME GOOD IF YOU STAR THIS REPO.
+####  THANK YOU
