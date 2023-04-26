@@ -1,0 +1,16 @@
+{
+	"name":"pikin Analog clock",
+	"short_name":"pikin",
+	"icons":[
+		{
+			"src": "./Image/pikinIcon.jpg",
+			"sizes":"3264x3264",
+			"type":"image/jpg"
+		}
+	],
+	"start_url":"/",
+	"display":"standalone"
+}
+
+
+
